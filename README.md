@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there!👋 I'm Kumaraguru, a final year computer science student on a journey to master web development. While I have a background in computer science, my current focus is on frontend web development.
+Hello there! :raised_hands: I'm Kumaraguru, a final year computer science student on a journey to master web development. While I have a background in computer science, my current focus is on frontend web development.
 
 🌱 **What I'm Currently Learning:** 
 - Exploring the world of web development with a focus on creating captivating user interfaces.
