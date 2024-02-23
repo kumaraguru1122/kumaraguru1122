@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1068771%2Fscreenshots%2F14225432%2Fcoder.jpg&tbnid=JLhtmDQhxqO6oM&vet=12ahUKEwiGtab218CEAxVScWwGHWsiA7EQMygHegQIARBs..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F14225432-Coder&docid=pDsQaa5wdnptWM&w=1584&h=1188&q=coder%20illustration&hl=en&client=firefox-b-lm&ved=2ahUKEwiGtab218CEAxVScWwGHWsiA7EQMygHegQIARBs)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpNQm-QCpBg3iFqj_95rDUSO6dTFBQpNrWlA&usqp=CAU)]
 
 # 💫 About Me:
 Hello there! 🙌 I'm Kumaraguru, a final year computer science student on a journey to master web development. <br>While I have a background in computer science, my current focus is on frontend web development.<br><br>What I'm Currently Learning:<br><br>1.  Exploring the world of web development with a focus on creating captivating user interfaces.<br>2.  Working with HTML, CSS, and JavaScript to craft responsive and user-friendly web designs.<br>3. Delving into the exciting realm of the React framework to build dynamic web applications
